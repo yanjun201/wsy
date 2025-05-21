@@ -1,0 +1,62 @@
+<h1!DOCTYPE html>
+< html >
+< head >
+< meta charset = " utf-8 " name = " viewport " content = " width = device-width，initial-scale=1，maximum-scale=1，user-scaled = no " >
+<标题>最强医院</title >
+</head >
+<正文>
+< style type="text/css " >
+ {
+ }	
+</style >
+
+<中心> < h1 >鹅埠镇杨杨卫生院(1.0版本)</p""></center >
+<参见src="v.mp4 "控件>
+	 
+</body >
+</html >
+<风格>
+视频{
+宽度:50%；
+身高:29%；
+  }	
+</style >
+<风格>
+正文{
+背景-图片:URL(" im/a . jpg ")；
+背景-尺寸:封面
+    }
+
+</style >
+
+
+
+
+
+<button onclick="a()">申请医生资格证</button>
+< button onclick="b()" >医院工作人员名单</button >
+<按钮>下载应用程序</button >
+</style >
+
+< center><h1></p""></center >
+<视频src="v.mp4 "控件>
+	 
+</body >
+</html >
+<风格>
+视频{
+宽度:100%；
+身高:29%；
+  }	
+</style >
+<脚本>
+
+函数a(){
+警报(“您已申请成功,请去院长那里等通知");
+
+函数b(){
+警报(“院长杨竣翔");
+ }
+ }
+
+</script >
